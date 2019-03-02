@@ -1,0 +1,107 @@
+<resources>
+    <string name="addr3ess">上海</string>
+
+    <string name="app_name">JWeather</string>
+    <string name="now_code">104</string>
+
+    <string name="now_cond_txt">阴</string>
+    <string name="now_hum">84</string>
+    <string name="now_pres">1032</string>
+    <string name="now_tmp">7℃</string>
+    <string name="now_vis">16</string>
+    <string name="now_wind_dir">东风</string>
+    <string name="now_wind_sc">1级</string>
+
+    <string name="day1_cond_code_d">305</string>
+    <string name="day1_cond_txt_d">小雨</string>
+    <string name="day1_cond_code_n">306</string>
+    <string name="day1_cond_txt_n">中雨</string>
+    <string name="day1_date">2019&#8211;02&#8211;13</string>
+    <string name="day1_hum">83</string>
+    <string name="day1_tmp_max">9℃</string>
+    <string name="day1_tmp_min">5℃</string>
+    <string name="day1_vis">7</string>
+    <string name="day1_wind_dir">东北风</string>
+    <string name="day1_wind_sc">4&#8211;5</string>
+
+    <string name="day2_cond_code_d">305</string>
+    <string name="day2_cond_txt_d">小雨</string>
+    <string name="day2_cond_code_n">306</string>
+    <string name="day2_cond_txt_n">中雨</string>
+    <string name="day2_date">2019&#8211;02&#8211;14</string>
+    <string name="day2_hum">79</string>
+    <string name="day2_tmp_max">9℃</string>
+    <string name="day2_tmp_min">6℃</string>
+    <string name="day2_vis">9</string>
+    <string name="day2_wind_dir">东风</string>
+    <string name="day2_wind_sc">4&#8211;5</string>
+
+    <string name="day3_cond_code_d">306</string>
+    <string name="day3_cond_txt_d">中雨</string>
+    <string name="day3_cond_code_n">305</string>
+    <string name="day3_cond_txt_n">小雨</string>
+    <string name="day3_date">2019&#8211;02&#8211;15</string>
+    <string name="day3_hum">97</string>
+    <string name="day3_tmp_max">9℃</string>
+    <string name="day3_tmp_min">4℃</string>
+    <string name="day3_vis">9</string>
+    <string name="day3_wind_dir">北风</string>
+    <string name="day3_wind_sc">3&#8211;4</string>
+
+    <string name="brf">drsg冷</string>
+    <string name="drsg_txt">天气冷，建议着棉服、羽绒服、
+        皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服.</string>
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pop_city">—热门城市—</string>
+    <string name="city_Beijing">北京</string>
+    <string name="city_Shanghai">上海</string>
+    <string name="city_Hangzhou">杭州</string>
+    <string name="city_Shenzhen">深圳</string>
+    <string name="city_Guangzhou">广州</string>
+    <string name="city_Suzhou">苏州</string>
+    <string name="city_Nanjing">南京</string>
+    <string name="city_Xian">西安</string>
+    <string name="city_Wuhan">武汉</string>
+    <string name="city_Chongqing">重庆</string>
+    <string name="city_Lhasa">拉萨</string>
+    <string name="city_Hohhot">呼和浩特</string>
+    <string name="city_Hongkong">香港</string>
+    <string name="city_Qingdao">青岛</string>
+    <string name="city_Zhengzhou">郑州</string>
+    <string name="city_Huangshan">黄山</string>
+
+    <string name="Shandong">山东</string>
+    <string name="Jiangsu">江苏</string>
+    <string name="Zhejiang">浙江</string>
+    <string name="Anhui">安徽</string>
+    <string name="Fujian">福建</string>
+    <string name="Jiangxi">江西</string>
+    <string name="Guangdong">广东</string>
+    <string name="Guangxi">广西</string>
+    <string name="Hainan">海南</string>
+    <string name="Henan">河南</string>
+    <string name="Hunan">湖南</string>
+    <string name="Hubei">湖北</string>
+    <string name="Tianjin">天津</string>
+    <string name="Hebei">河北</string>
+    <string name="Shanxi">山西</string>
+    <string name="Neimonggol">内蒙古</string>
+    <string name="Ningxia">宁夏</string>
+    <string name="Qinghai">青海</string>
+    <string name="Shaanxi">陕西</string>
+    <string name="Gansu">甘肃</string>
+    <string name="Xinjiang">新疆</string>
+    <string name="Sichuan">四川</string>
+    <string name="Guizhou">贵州</string>
+    <string name="Yunnan">云南</string>
+    <string name="Xizang">西藏</string>
+    <string name="Liaoning">辽宁</string>
+    <string name="Jilin">吉林</string>
+    <string name="Heilongjiang">黑龙江</string>
+    <string name="Macao">澳门</string>
+    <string name="Taiwan">台湾</string>
+
+</resources>
